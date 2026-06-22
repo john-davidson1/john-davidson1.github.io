@@ -4,8 +4,8 @@ title: john-davidson1
 permalink: /
 ---
 
-resume: [/about/](/about/)
+full-length resume: [/about/](/about/)
 
-github: https://github.com/john-davidson1
+github: [john-davidson1](https://github.com/john-davidson1)
 
-linkedin: https://www.linkedin.com/in/john-davidson-chi/
+linkedin: [john-davidson-chi](https://www.linkedin.com/in/john-davidson-chi/)
