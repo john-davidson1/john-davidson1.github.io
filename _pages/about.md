@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 # `obiwan.say("hello there")`
+---
 I'm **John Davidson** - a senior engineer from the greater Chicago area who's been around the block a few times. 
 Always looking for the next puzzle to solve. If I'm not hacking away at some backend problem, I'm tinkering with 
 electronics, mechanical keyboards, guitars, retro CRT gaming, or disc golf. 
@@ -13,7 +14,7 @@ If you navigated here, you probably want to run `--verbose` on my CV, so here yo
 
 
 # `history | grep "work"`
-
+---
 
 ### Hungryroot — Sr. Software Engineer
 **Remote · Nov 2025 – Present**
@@ -28,7 +29,7 @@ I'm a senior engineer on the Backend/Platform team at Hungryroot, working on Dja
 
 **Stack:** Python, Django, DRF, Pydantic, Celery, Redis, MySQL, AWS, EKS, Docker, GitHub Actions, Datadog, Sentry, Terraform
 
----
+
 
 ### Komodo Health — Sr. Software Engineer
 **Remote · May – Sep 2025**
@@ -44,7 +45,7 @@ building services/APIs and orchestrated business critical DAG workflows for main
 
 **Stack:** Python, FastAPI, DynamoDB, Kafka, TemporalIO, Snowflake, GitHub Actions, Helm, Argo Workflows, AWS EKS
 
----
+
 
 ### Atlassian — Software Engineer
 **Remote · Mar 2022 – May 2025**
@@ -66,7 +67,7 @@ Plenty of Java, Go, and even a bit of Rust.
 
 **Stack:** Python (Flask/FastAPI), Go, Java (Spring), Rust, Kotlin, Bitbucket Pipelines, Datadog, AWS, Docker
 
----
+
 
 ### SteelSeries — Sr. Software Engineer
 **Chicago / Remote · Nov 2018 – Mar 2022**
@@ -85,7 +86,7 @@ pushing the business to standardize the report structure and rectify people mana
 
 **Stack:** Python, Django, Elasticsearch, AWS, Terraform, React, TypeScript, and a bit of GraphQL
 
----
+
 
 ### Wargaming — Software Engineer
 **Chicago, IL · May 2015 – Aug 2018**
@@ -101,7 +102,7 @@ I even got to work a bit on some game server orchestration layer tools in Python
 
 **Stack:** Python, Django, Flask, Redis, RabbitMQ, PostgreSQL, even a bit of Lua
 
----
+
 
 ### Conversant (Epsilon) — Software Engineer
 **Chicago, IL · Jul 2014 – May 2015**
@@ -119,7 +120,7 @@ spots for tracked users on behalf of our business we ran advertising campaigns f
 
 
 # `history | grep "school"`
-
+---
 I went to DePaul University in Chicago from 2010-2014, majoring in Computer Science.
 I kept going and got my combined Masters in CS from DePaul in 2016. My masters focus was on backend web servers and my capstone
 project work was a service to manage a fleet of docker containers with local agents/metrics front end server. Basically, trying
