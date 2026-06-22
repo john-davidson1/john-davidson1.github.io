@@ -72,7 +72,7 @@ Plenty of Java, Go, and even a bit of Rust.
 **Chicago / Remote · Nov 2018 – Mar 2022**
 
 Steelseries is a leading PC gaming peripheral company, known for high quality headsets, keyboards, mice, and more. 
-I joined as a senior backend engineer on the web team, meaning we were in charge of the entire direct business online marketplace, which was a
+I joined as a senior backend engineer on the web team. We were in charge of the entire direct business online marketplace, which was a
 custom-built django/react app. Throughout my long time there, I eventually became the lead dev on our team of 6, helping build out the ops side of our team
 as well as upskilling various devs from just frontend/backend to be able to jump into fullstack work. I also had the fun job of hiring a manager for our org, 
 pushing the business to standardize the report structure and rectify people management/mentorship/leadership gaps of our side of the business.
