@@ -4,7 +4,7 @@ title: john-davidson1
 permalink: /
 ---
 
-resume: [/about/](/_pages/about.md)
+resume: [/about/](/about/)
 
 github: https://github.com/john-davidson1
 
